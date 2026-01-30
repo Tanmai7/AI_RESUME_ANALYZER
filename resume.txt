@@ -1,0 +1,58 @@
+TANMAI SODISETTI
+BTech Professional
+ Vijayawada, Andhra Pradesh  |  tanmaisodisetti@gmail.com  |   83338 90006
+Linkedin: TANMAI SODISETTI |
+github.com/tanmai7 | leetcode.com/u/tanmai_7/
+SUMMARY
+Pursuing B.Tech in Computer Science, who believes every problem has a solution when approached with logic and persistence. Curious to chase challenges, grow with every step, and contribute with dedication.
+EDUCATION
+WORK EXPERIENCE
+BLACKBUCKS SHORT TERM INTERNSHIP
+Virtual Internship | May 2025 – Jun 2025
+          🔹 Worked in UI/UX designing, developed a Music Player app named Vibify.
+INFOSYS SPRINGBOARD 5.0
+ Virtual Internship | Nov 2024 - Feb 2025
+   🔹 Developed a Speech-to-Speech Streaming project using NLP and Deep Learning.
+AICTE
+        Virtual Internship | Nov 2024 - Jan 2025
+          🔹 Created an SMS Spam Detection system using Natural Language Processing.
+ AIMER SOCIETY
+ Virtual Internship | May 2024 - Jul 2024
+   🔹 Worked on AI projects: Object Detection, Telegram Bot, Visual Question & Answering, HuggingFace Models, and Image Classification.
+
+
+
+TECHNICAL SKILLS & INTERESTS:
+Programming fundamentals: C, Java, Python
+Web basics: HTML, CSS, JavaScript
+Core concepts: Problem-solving, Data Structures, Algorithm
+Interested in AI, UI/UX, and software development
+Quick learner, eager to apply knowledge in real projects
+Domains of Interest: Artificial Intelligence & Machine Learning, Web Development, UI/UX Design, Software Development
+ADDITIONAL INTERESTS 
+Aptitude puzzles, Problem-solving, UI design, Shuttle.
+CERTIFICATIONS & ACHIEVEMENTS
+Google Cloud – Cloud Engineering Certification(ACE)
+Certifications in INFOSYS SPRINGBOARD: Basics of Python,Java, HTML5, CSS, AI Courses
+Certification in Prompt Engineering
+IIT Bombay Spoken Tutorial: C, CPP, R Programming
+Participation in FlipKart Grid 6.0 – Software Development Track
+Postman API Fundamentals Student Expert Badge
+Participation Certificate - IDEATHON 2024
+Introduction to Machine Learning NPTEL Certification
+PROJECTS
+Secure File Sharing
+Built a system that allows users to share files safely using encryption.
+Ensures data is protected during transfer and only accessible to authorized users.
+UI/UX Music Player App (Figma)
+Designed the interface of a music player app using Figma with a clean and user-friendly layout.
+Focused on easy navigation, playlist management, and smooth user experience.
+Speech-to-Speech Streaming in different languages
+Created an AI system that takes spoken input in one language and gives translated speech output in different languages.
+Helps people communicate across languages in real time.
+SMS Spam Detection
+Built a model that checks SMS messages and separates spam from genuine ones.
+Improves user safety by blocking unwanted or harmful texts.
+AI-Based Object Detection
+Developed a program that can detect and recognize objects from images or videos in real time.
+Useful for automation, security cameras, and smart applications.
